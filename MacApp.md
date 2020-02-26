@@ -11,6 +11,8 @@
 
 - xnip (截图)
 - gifox (录制 gif)
+- Snipaste （截图）
+- Text Scanner （将图片上文字内容转换成可编辑文本）
 
 ## 时间管理
 
@@ -61,3 +63,23 @@
 
 ## 屏幕取色软件
 - [Sip](http://sipapp.io/)
+
+## 窗口管理工具
+
+- Magnet
+
+## 视频播放工具
+
+- IINA
+
+## 剪贴板
+
+- Paste
+
+## 视频下载工具
+
+- Downie
+
+## 屏幕录像&&视频剪辑
+
+- ScreenFlow
