@@ -10,13 +10,16 @@
 ## 截图
 
 - xnip (截图)
-- gifox (录制 gif)
+- LICEcap （录制gif）
+- gifox (录制 gif，无点击效果)
 - Snipaste （截图）
 - Text Scanner （将图片上文字内容转换成可编辑文本）
+- Kap (屏幕录像&&录制gif)
 
 ## 时间管理
 
 - OmniFocus
+- Recess （时间管理，强制休息）
 
 ## 绘图软件
 
@@ -29,6 +32,7 @@
 ## 思维导图
 
 - xmind
+- 幕布
 
 ## 远程操作
 
@@ -83,3 +87,7 @@
 ## 屏幕录像&&视频剪辑
 
 - ScreenFlow
+
+## 标尺
+
+- Xscope (强大的设计辅助软件)
