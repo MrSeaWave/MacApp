@@ -62,6 +62,7 @@
 - [翻页式钟表](https://fliqlo.com/#about) [fliqlo](./localeMac/fliqlo_171.dmg)
 
 ## 屏幕取色软件
+
 - [Sip](http://sipapp.io/)
 
 ## 窗口管理工具
@@ -83,3 +84,7 @@
 ## 屏幕录像&&视频剪辑
 
 - ScreenFlow
+
+## 显示按键操作
+
+- KeyCastr
