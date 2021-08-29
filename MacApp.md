@@ -4,7 +4,7 @@
 
 ## IDE
 
-- IDEA
+- IntelliJ IDEA
 - vscode
 
 ## 截图
